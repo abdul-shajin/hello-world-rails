@@ -1,6 +1,6 @@
 = hello-world-rails
 
-Gem to display 'hello-world' in all computer languages - Not finished.
+Gem to display 'hello-world' in all computer languages - Under construction.
 
 == Contributing to hello-world-rails
  
