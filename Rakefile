@@ -17,10 +17,10 @@ Jeweler::Tasks.new do |gem|
   gem.name = "hello-world-rails"
   gem.homepage = "http://github.com/codesavvy/hello-world-rails"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "vinay.bansal1@gmail.com"
-  gem.authors = ["Vinay B"]
+  gem.summary = %Q{Hi, I'm hello world gem for rails}
+  gem.description = %Q{This is a fancy gem}
+  gem.email = "shajinvk@gmail.com"
+  gem.authors = ["codesavvy"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
